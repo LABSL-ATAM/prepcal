@@ -1,0 +1,75 @@
+###############################################
+# lineas que empiezan con # no pasan (comentarios)
+# lineas que comienzan con * pasan tan cual (para opiciones en el .calendar)
+
+* # Configs ()
+* opt -E
+* input-language es
+
+# * note Enero   Brr... It's cold in %B!
+# * note Jul   Whew, it's hot in %B!
+# * note/2 all   \fBEnjoy life\fP during %b!
+# * define semester_start 8/8   # Beginning of semester
+# * semester_start                 Class Start
+# * 7mo  day after semester_start  1st Quiz
+# * 1mo day after semester_start  2nd Quiz
+# * undef semester_start
+
+# * weekday nearest Jul 3*		# nonworkday in observance of U.S. Independence Day
+
+# * troff-style
+###############################################
+
+*
+* # CALENDARIO ACADEMICO 2016
+*
+
+10 de febrero al 4 de marzo: Curso Pre Universitario
+
+11 al 17 de febrero: Inscripciones a finales llamados de febrero y marzo
+22 al 26 de febrero: Examenes Finales llamado febrero
+26 de febrero al 3 de marzo: Inscripciones a materias 1er Cuatrimestre
+1 al 4 de marzo: Examenes Finales llamado marzo
+
+7 de marzo: Inicia 1er Cuatrimestre
+# 24 de junio: Concluyen Cursadas cuatrimestrales
+27 de junio al 1 de julio: Cierre de notas y carga de actas #1er Cuatrimestre
+
+5 al 8 de julio: Inscripciones a finales de julio (único llamado)
+5 al 15 de julio: Inscripciones materias 2do Cuatrimestre
+11 al 15 de julio: Examenes Finales de julio (único llamado)
+
+16 al 31 de julio: Receso Invernal
+
+1 de agosto: inicia 2do Cuatrimestre
+# 18 de noviembre: Concluyen Cursadas cuatrimestrales y anuales
+21 al 25 de noviembre: Cierre de notas y carga de actas #2do cuatrimestre y anuales
+
+28 de noviembre al 2 de diciembre: Inscripciones a exámenes diciembre
+5 al 8 de diciembre:  Examenes de diciembre 1er llamado
+12 al 16 de diciembre: Examenes de diciembre 2do llamado
+
+*
+19 de diciembre: Fin de las Actividades Académicas
+*
+* # Festividades del Primer Cuatrimestre
+24 de marzo: 40 Años Día Nacional de la Memoria por la Verdad y la Justicia / Jueves Santo
+25 de marzo: Viernes Santo
+27 de marzo: Domingo de Pascua
+2 de abril: Día del Veterano y de los Caídos en la Guerra de Malvinas
+24 de abril: Día de Acción por la Tolerancia y Respeto de los Pueblos
+1 de mayo: Día del Trabajador
+25 de mayo: Primer Gobierno Patrio
+20 de junio: Paso a la Inmortalidad del General Manuel Belgrano / Solsticio de junio
+*
+* # Festividades del Segundo Cuatrimestre
+9 de julio: Bicentenario de la Independencia Argentina 1816 - 2016.
+15 de agosto: Paso a la Inmortalidad del General José de San Martín
+21 de septiembre: Día de las Artes
+3 de octubre: Año Nuevo Islámico*
+10 de octubre: Día del Respeto a la Diversidad Cultural
+12 de octubre: Yom Kipur, Gran Día del Perdón*
+22 de octubre: Día de la Universidad Nacional de las Artes
+26 de noviembre: Día del Trabajador No Docente
+28 de noviembre: Día de la Soberanía Nacional
+
