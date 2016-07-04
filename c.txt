@@ -31,17 +31,17 @@
 26 de febrero al 3 de marzo: Inscripciones a cursadas (1er cuatrimestre y anuales)
 1 al 4 de marzo: Llamado a examenes finales (marzo)
 
-7 de marzo: Inician cursadas (1er cuatrimestre)
-# 24 de junio: Concluyen cursadas (cuatrimestrales)
+7 de marzo: Inician las cursadas (1er cuatrimestre)
+# 24 de junio: Concluyen las cursadas (cuatrimestrales)
 27 de junio al 1 de julio: Cierre de notas / carga de actas # (1er cuatrimestre)
 
-5 al 8 de julio: Inscripciones a examenes finales (julio - único llamado)
+5 al 8 de julio: Inscripciones a examenes finales (julio - &uacute;nico llamado)
 5 al 15 de julio: Inscripciones a cursadas (2do cuatrimestre)
-11 al 15 de julio: Llamado a examenes finales (julio - único llamado)
+11 al 15 de julio: Llamado a examenes finales (julio - &uacute;nico llamado)
 
 16 al 31 de julio: Receso Invernal
 
-1 de agosto: Inician cursadas 2do cuatrimestre
+1 de agosto: Inician cursadas (2do cuatrimestre)
 18 de noviembre: Concluyen cursadas # (2do cuatrimestre y anuales)
 21 al 25 de noviembre: Cierre de notas / carga de actas # (2do cuatrimestre y anuales)
 
@@ -50,29 +50,29 @@
 12 al 16 de diciembre: Llamado a examenes finales (diciembre - 2do turno)
 
 *
-19 de diciembre: Útimo dia de Actividades
+19 de diciembre: Concluyen las Actividades
 *
 * # Festividades del Primer Cuatrimestre
-24 de marzo:  Asueto 40 Años Día Nacional de la Memoria...
+24 de marzo: Asueto 40 A&ntilde;os D&iacute;a Nacional de la Memoria...
 25 de marzo: Asueto Viernes Santo
 24 de marzo: Asueto Jueves Santo
 27 de marzo: Asueto Domingo de Pascua
-2 de abril: Asueto Día del Veterano y de los Caídos en la Guerra de Malvinas
-24 de abril: Asueto Día de Acción por la Tolerancia y Respeto de los Pueblos
-1 de mayo: Asueto Día del Trabajador
+2 de abril: Asueto D&iacute;a del Veterano y de los Ca&iacute;dos en la Guerra de Malvinas
+24 de abril: Asueto D&iacute;a de Acci&oacute;n por la Tolerancia y Respeto de los Pueblos
+1 de mayo: Asueto D&iacute;a del Trabajador
 25 de mayo: Asueto Primer Gobierno Patrio
 20 de junio: Asueto Paso a la Inmortalidad del General Manuel Belgrano
 *
 * # Festividades del Segundo Cuatrimestre
 9 de julio: Asueto Bicentenario de la Independencia Argentina 1816 - 2016.
-15 de agosto: Asueto Paso a la Inmortalidad del General José de San Martín
-21 de septiembre: Asueto Día de las Artes
-3 de octubre: Asueto Año Nuevo Islámico*
-10 de octubre: Asueto Día del Respeto a la Diversidad Cultural
-12 de octubre: Asueto Yom Kipur, Gran Día del Perdón*
-22 de octubre: Asueto Día de la Universidad Nacional de las Artes
-26 de noviembre: Asueto Día del Trabajador No Docente
-28 de noviembre: Asueto Día de la Soberanía Nacional
+15 de agosto: Asueto Paso a la Inmortalidad del General Jos&eacute; de San Mart&iacute;n
+21 de septiembre: Asueto D&iacute;a de las Artes
+3 de octubre: Asueto A&ntilde;o Nuevo Isl&aacute;mico*
+10 de octubre: Asueto D&iacute;a del Respeto a la Diversidad Cultural
+12 de octubre: Asueto Yom Kipur, Gran D&iacute;a del Perd&oacute;n*
+22 de octubre: Asueto D&iacute;a de la Universidad Nacional de las Artes
+26 de noviembre: Asueto D&iacute;a del Trabajador No Docente
+28 de noviembre: Asueto D&iacute;a de la Soberan&iacute;a Nacional
 
 * # pruebas Sintaxis Pcal
 
@@ -84,7 +84,7 @@
 # * asueto	EO
 
 * input-language en
-* first Mon in Feb	Primer día de Actividades
+* first Mon in Feb	Comeinzan  las Actividades Academicas
 * first Mon in Jul	2do Semestre
 # * all Sun in all		DOM
 # * delete second Sun in all	DOM

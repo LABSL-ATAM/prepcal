@@ -109,25 +109,32 @@ sub mes{
 
 sub marcar{
 	my $input = $_[0];
-	my @words = split /\s/, $input;
-	my $word = $words[0];
 
-	my $verbo = estandar($word);
+
+	my @words = split /\s/, $input;
+	my $verbo = $words[0];
+
+	# if($words[2]){
+	# 	$sustativo = $words[2];
+	# }
+
 
 	my $pre = "<div>";
+	# my $classes = estandar($verbo);
+	my $classes = $verbo;
+
+	$pre = "<div class=\"".$classes."\">";
 	my $post = "</div>";
-	if($verbo){
-		$pre = "<div class=\"".$verbo."\">";
-	}
+
 	return $pre.$input.$post;
 }
 
 sub estandar{
 	my $v = $_[0];
 	my %verb2standar = qw(
-		ins inscripciones  exa examenes  ini inicio  com comienza
-		car carga  cie cierre int intro cur curso fin finales fer feriado
-		asu asueto  rec receso
+		ins inscripciones  lla llamado  asu asueto
+		cie cierre  mat cursadas  exa examenes  com comienzo
+		con concluyen
 	);
 	return $verb2standar{ lc substr($v, 0, 3) };
 }
