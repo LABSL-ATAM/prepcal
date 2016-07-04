@@ -1,8 +1,8 @@
 ###############################################
 # lineas que empiezan con # no pasan (comentarios)
-# lineas que comienzan con * pasan tan cual (para opiciones en el .calendar)
+# lineas que comienzan con * pasan tan cual (para pasar opts y args a Pcal)
 
-* # Configs ()
+* # Pcal Configs
 * opt -E
 * input-language es
 
@@ -26,50 +26,65 @@
 
 10 de febrero al 4 de marzo: Curso Pre Universitario
 
-11 al 17 de febrero: Inscripciones a finales llamados de febrero y marzo
-22 al 26 de febrero: Examenes Finales llamado febrero
-26 de febrero al 3 de marzo: Inscripciones a materias 1er Cuatrimestre
-1 al 4 de marzo: Examenes Finales llamado marzo
+11 al 17 de febrero: Inscripciones a examenes finales (febrero y marzo)
+22 al 26 de febrero: Llamado a examenes finales (febrero)
+26 de febrero al 3 de marzo: Inscripciones a materias (1er cuatrimestre y anuales)
+1 al 4 de marzo: Llamado a examenes finales (marzo)
 
-7 de marzo: Inicia 1er Cuatrimestre
-# 24 de junio: Concluyen Cursadas cuatrimestrales
-27 de junio al 1 de julio: Cierre de notas y carga de actas #1er Cuatrimestre
+7 de marzo: Inician cursadas (1er cuatrimestre)
+# 24 de junio: Concluyen cursadas cuatrimestrales
+27 de junio al 1 de julio: Cierre de notas / carga de actas # (1er cuatrimestre)
 
-5 al 8 de julio: Inscripciones a finales de julio (único llamado)
-5 al 15 de julio: Inscripciones materias 2do Cuatrimestre
-11 al 15 de julio: Examenes Finales de julio (único llamado)
+5 al 8 de julio: Inscripciones a examenes finales (julio - único llamado)
+5 al 15 de julio: Inscripciones a materias (2do cuatrimestre)
+11 al 15 de julio: Llamado a examenes finales (julio - único llamado)
 
 16 al 31 de julio: Receso Invernal
 
-1 de agosto: inicia 2do Cuatrimestre
-# 18 de noviembre: Concluyen Cursadas cuatrimestrales y anuales
-21 al 25 de noviembre: Cierre de notas y carga de actas #2do cuatrimestre y anuales
+1 de agosto: Inician cursadas 2do cuatrimestre
+18 de noviembre: Concluyen cursadas # (2do cuatrimestre y anuales)
+21 al 25 de noviembre: Cierre de notas / carga de actas # (2do cuatrimestre y anuales)
 
-28 de noviembre al 2 de diciembre: Inscripciones a exámenes diciembre
-5 al 8 de diciembre:  Examenes de diciembre 1er llamado
-12 al 16 de diciembre: Examenes de diciembre 2do llamado
+28 de noviembre al 2 de diciembre: Inscripciones a examenes finales (diciembre)
+5 al 8 de diciembre: Llamado a examenes finales (diciembre - 1er turno)
+12 al 16 de diciembre: Llamado a examenes finales (diciembre - 2do turno)
 
 *
-19 de diciembre: Fin de las Actividades Académicas
+19 de diciembre: Útimo dia de Actividades
 *
 * # Festividades del Primer Cuatrimestre
-24 de marzo: 40 Años Día Nacional de la Memoria por la Verdad y la Justicia / Jueves Santo
-25 de marzo: Viernes Santo
-27 de marzo: Domingo de Pascua
-2 de abril: Día del Veterano y de los Caídos en la Guerra de Malvinas
-24 de abril: Día de Acción por la Tolerancia y Respeto de los Pueblos
-1 de mayo: Día del Trabajador
-25 de mayo: Primer Gobierno Patrio
-20 de junio: Paso a la Inmortalidad del General Manuel Belgrano / Solsticio de junio
+24 de marzo:  Asueto 40 Años Día Nacional de la Memoria...
+25 de marzo: Asueto Viernes Santo
+24 de marzo: Asueto Jueves Santo
+27 de marzo: Asueto Domingo de Pascua
+2 de abril: Asueto Día del Veterano y de los Caídos en la Guerra de Malvinas
+24 de abril: Asueto Día de Acción por la Tolerancia y Respeto de los Pueblos
+1 de mayo: Asueto Día del Trabajador
+25 de mayo: Asueto Primer Gobierno Patrio
+20 de junio: Asueto Paso a la Inmortalidad del General Manuel Belgrano
 *
 * # Festividades del Segundo Cuatrimestre
-9 de julio: Bicentenario de la Independencia Argentina 1816 - 2016.
-15 de agosto: Paso a la Inmortalidad del General José de San Martín
-21 de septiembre: Día de las Artes
-3 de octubre: Año Nuevo Islámico*
-10 de octubre: Día del Respeto a la Diversidad Cultural
-12 de octubre: Yom Kipur, Gran Día del Perdón*
-22 de octubre: Día de la Universidad Nacional de las Artes
-26 de noviembre: Día del Trabajador No Docente
-28 de noviembre: Día de la Soberanía Nacional
+9 de julio: Asueto Bicentenario de la Independencia Argentina 1816 - 2016.
+15 de agosto: Asueto Paso a la Inmortalidad del General José de San Martín
+21 de septiembre: Asueto Día de las Artes
+3 de octubre: Asueto Año Nuevo Islámico*
+10 de octubre: Asueto Día del Respeto a la Diversidad Cultural
+12 de octubre: Asueto Yom Kipur, Gran Día del Perdón*
+22 de octubre: Asueto Día de la Universidad Nacional de las Artes
+26 de noviembre: Asueto Día del Trabajador No Docente
+28 de noviembre: Asueto Día de la Soberanía Nacional
 
+* # pruebas Sintaxis Pcal
+
+# 1 de enero: prueba evento para borrar
+# * define asueto 10/1
+# * asueto 2/1
+# * asueto	EOEO
+# * # undef asueto
+# * asueto	EO
+
+* input-language en
+* first Mon in Feb	Primer día de Actividades
+* first Mon in Jul	2do Semestre
+# * all Sun in all		DOM
+# * delete second Sun in all	DOM

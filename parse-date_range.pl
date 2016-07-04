@@ -3,8 +3,13 @@ use warnings;
 use feature 'say';
 use Data::Dumper;
 
+
 use DateTime;
 use File::Slurp;
+
+use HTML::Entities;
+
+
 
 my @file = read_file('c.txt') ;
 my $anio = 2016;
@@ -12,6 +17,8 @@ my $anio = 2016;
 my @lines = grep {!/^#/} @file;		# weed out comments
 my @eventos = grep {/\S/} @lines;	# weed out blank lines
 
+
+# main
 foreach (@eventos) {
 
 	if (index($_, '*') == 0) { # estas lineas (*) pasan derecho
@@ -50,21 +57,24 @@ foreach (@eventos) {
 sub salida{
 	my (%e) = @_;
 	my $d1 = DateTime->new($e{start});
+	my $t = marcar($e{texto});
 
 	if($e{end}){
 		say "# ".$e{texto};
-		my $t = marcar($e{texto});
 
 		my $d2 = DateTime->new($e{end});
 
 		while ($d1 <= $d2) { # mientras que el comienzo no sea mas grande...
-			say $d1->strftime("%d/%m"), "	", $t;
-			$d1->add(days => 1); # + 1 dia
+
+			if($d1->day_of_week < 6 ){ # si NO es sabado o domingo
+				say $d1->strftime("%d/%m"), "	",$t;
+			}
+			$d1->add(days => 1); # siguiente 1 dia
 		}
 
 		print '#' for 1 .. 20;	say "\n";
 	}else{
-		say $d1->strftime("%d/%m"), "	", $e{texto};
+		say $d1->strftime("%d/%m"), "	", $t;
 	}
 
 }
@@ -101,6 +111,7 @@ sub marcar{
 	my $input = $_[0];
 	my @words = split /\s/, $input;
 	my $word = $words[0];
+
 	my $verbo = estandar($word);
 
 	my $pre = "<div>";
@@ -116,7 +127,7 @@ sub estandar{
 	my %verb2standar = qw(
 		ins inscripciones  exa examenes  ini inicio  com comienza
 		car carga  cie cierre int intro cur curso fin finales fer feriado
-		asu asueto
+		asu asueto  rec receso
 	);
 	return $verb2standar{ lc substr($v, 0, 3) };
 }
