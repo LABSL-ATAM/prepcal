@@ -25,7 +25,6 @@ input-language es
 04/03	<div class="curso">Curso Pre Universitario</div>
 ####################
 
-
 # Inscripciones a examenes finales (febrero y marzo)
 11/02	<div class="inscripciones">Inscripciones a examenes finales (febrero y marzo)</div>
 12/02	<div class="inscripciones">Inscripciones a examenes finales (febrero y marzo)</div>
@@ -42,12 +41,12 @@ input-language es
 26/02	<div>Llamado a examenes finales (febrero)</div>
 ####################
 
-# Inscripciones a materias (1er cuatrimestre y anuales)
-26/02	<div class="inscripciones">Inscripciones a materias (1er cuatrimestre y anuales)</div>
-29/02	<div class="inscripciones">Inscripciones a materias (1er cuatrimestre y anuales)</div>
-01/03	<div class="inscripciones">Inscripciones a materias (1er cuatrimestre y anuales)</div>
-02/03	<div class="inscripciones">Inscripciones a materias (1er cuatrimestre y anuales)</div>
-03/03	<div class="inscripciones">Inscripciones a materias (1er cuatrimestre y anuales)</div>
+# Inscripciones a cursadas (1er cuatrimestre y anuales)
+26/02	<div class="inscripciones">Inscripciones a cursadas (1er cuatrimestre y anuales)</div>
+29/02	<div class="inscripciones">Inscripciones a cursadas (1er cuatrimestre y anuales)</div>
+01/03	<div class="inscripciones">Inscripciones a cursadas (1er cuatrimestre y anuales)</div>
+02/03	<div class="inscripciones">Inscripciones a cursadas (1er cuatrimestre y anuales)</div>
+03/03	<div class="inscripciones">Inscripciones a cursadas (1er cuatrimestre y anuales)</div>
 ####################
 
 # Llamado a examenes finales (marzo)
@@ -73,16 +72,16 @@ input-language es
 08/07	<div class="inscripciones">Inscripciones a examenes finales (julio - único llamado)</div>
 ####################
 
-# Inscripciones a materias (2do cuatrimestre)
-05/07	<div class="inscripciones">Inscripciones a materias (2do cuatrimestre)</div>
-06/07	<div class="inscripciones">Inscripciones a materias (2do cuatrimestre)</div>
-07/07	<div class="inscripciones">Inscripciones a materias (2do cuatrimestre)</div>
-08/07	<div class="inscripciones">Inscripciones a materias (2do cuatrimestre)</div>
-11/07	<div class="inscripciones">Inscripciones a materias (2do cuatrimestre)</div>
-12/07	<div class="inscripciones">Inscripciones a materias (2do cuatrimestre)</div>
-13/07	<div class="inscripciones">Inscripciones a materias (2do cuatrimestre)</div>
-14/07	<div class="inscripciones">Inscripciones a materias (2do cuatrimestre)</div>
-15/07	<div class="inscripciones">Inscripciones a materias (2do cuatrimestre)</div>
+# Inscripciones a cursadas (2do cuatrimestre)
+05/07	<div class="inscripciones">Inscripciones a cursadas (2do cuatrimestre)</div>
+06/07	<div class="inscripciones">Inscripciones a cursadas (2do cuatrimestre)</div>
+07/07	<div class="inscripciones">Inscripciones a cursadas (2do cuatrimestre)</div>
+08/07	<div class="inscripciones">Inscripciones a cursadas (2do cuatrimestre)</div>
+11/07	<div class="inscripciones">Inscripciones a cursadas (2do cuatrimestre)</div>
+12/07	<div class="inscripciones">Inscripciones a cursadas (2do cuatrimestre)</div>
+13/07	<div class="inscripciones">Inscripciones a cursadas (2do cuatrimestre)</div>
+14/07	<div class="inscripciones">Inscripciones a cursadas (2do cuatrimestre)</div>
+15/07	<div class="inscripciones">Inscripciones a cursadas (2do cuatrimestre)</div>
 ####################
 
 # Llamado a examenes finales (julio - único llamado)
