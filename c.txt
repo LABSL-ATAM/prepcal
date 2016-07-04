@@ -4,43 +4,12 @@
 
 * # Pcal Configs
 * opt -E
-
-# pruebas Sintaxis Pcal
-
-# * input-language en
-# * note Enero   Brr... It's cold in %B!
-# * note Jul   Whew, it's hot in %B!
-# * note/2 all   \fBEnjoy life\fP during %b!
-# * define semester_start 8/8   # Beginning of semester
-# * semester_start                 Class Start
-# * 7mo  day after semester_start  1st Quiz
-# * 1mo day after semester_start  2nd Quiz
-# * undef semester_start
-
-# * weekday nearest Jul 3*		# nonworkday in observance of U.S. Independence Day
-
-# 1 de enero: prueba evento para borrar
-# * define asueto 10/1
-# * asueto 2/1
-# * asueto	EOEO
-# * undef asueto
-# * asueto	EO
-
-# Prueba eventos relativos
-# * first Mon in Feb	Comeinzan las Actividades Academicas
-# * first Mon in Jul	2do Semestre
-# * all Sun in all		DOM
-# * delete second Sun in all	DOM
-
-# * troff-style
 * input-language es
-###############################################
-
 *
 * # CALENDARIO ACADEMICO 2016
 *
 
-10 de febrero al 4 de marzo: Curso Pre Universitario
+10 de febrero al 4 de marzo: Nivelaci&oacute;n y orientaci&oacute;n ar&iacute;stica-profesional para ingresantes
 *
 11 al 17 de febrero: Inscripciones a examenes finales (febrero y marzo)
 22 al 26 de febrero: Llamado a examenes finales (febrero)
@@ -66,6 +35,8 @@
 28 de noviembre al 2 de diciembre: Inscripciones a examenes finales (diciembre)
 5 al 8 de diciembre: Llamado a examenes finales (diciembre - 1er turno)
 12 al 16 de diciembre: Llamado a examenes finales (diciembre - 2do turno)
+# 28 de noviembre al 2 de diciembre: MUESTRA FIN DE AÑO
+
 
 *
 19 de diciembre: Concluyen las Actividades
@@ -91,5 +62,48 @@
 22 de octubre: Asueto D&iacute;a de la Universidad Nacional de las Artes
 26 de noviembre: Asueto D&iacute;a del Trabajador No Docente
 28 de noviembre: Asueto D&iacute;a de la Soberan&iacute;a Nacional
+
+
+###############################################
+# lineas que empiezan con # no pasan (comentarios)
+# lineas que comienzan con * pasan tan cual (para pasar opts y args a Pcal)
+
+
+
+# pruebas Sintaxis Pcal
+
+# * input-language en
+# * all Mon in all INFORMATICA 
+
+
+# * note Enero   Brr... It's cold in %B!
+# * note Jul   Whew, it's hot in %B!
+# * note/2 all   \fBEnjoy life\fP during %b!
+# * define semester_start 8/8   # Beginning of semester
+# * semester_start                 Class Start
+# * 7mo  day after semester_start  1st Quiz
+# * 1mo day after semester_start  2nd Quiz
+# * undef semester_start
+
+# * weekday nearest Jul 4*		# nonworkday in observance of U.S. Independence Day
+
+# 1 de enero: prueba evento para borrar
+# * define asueto 10/1
+# * asueto 2/1
+# * asueto	EOEO
+# * undef asueto
+# * asueto	EO
+
+# Prueba eventos relativos
+# * first Mon in Feb	Comeinzan las Actividades Academicas
+# * first Mon in Jul	2do Semestre
+# * all Sun in all		DOM
+# * delete second Sun in all	DOM
+
+# * opt troff-style
+
+
+
+###############################################
 
 

@@ -115,7 +115,7 @@ sub indentificar{
 	my $last = $words[@words - 1];
 	push(@gw, $last) unless grep{$_ eq $last} @gw;
 
-	my $classes = lc $first.' '.$last;
+	my $classes = "evento ".lc $first.' '.$last;
 	my $pre = "<div class=\"".$classes."\">";
 	my $post = "</div>";
 

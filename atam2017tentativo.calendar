@@ -1,0 +1,11 @@
+# 10 de febrero al 4 de marzo: Nivelación y orientación arística-profesional para ingresantes
+input-language en
+
+first workday in feb    INICIAN ACTIVIDADES
+# workdays on_or_before all 14    CPU
+
+last_quarter feb CPU
+
+
+
+#{<ordinal>} <day_spec> <prep> <date_spec>{*} {<text>}

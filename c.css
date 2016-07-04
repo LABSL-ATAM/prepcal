@@ -1,0 +1,80 @@
+
+/*
+007C85 verde atam
+004840 verde oscuro texto
+5D9C7E verde claro
+D3D1C0 gris claro
+444A4F ngro texto
+
+/* principales */
+
+
+body{
+	font-family: Arial, sans-sefr;
+}
+br {
+    display: none;
+}
+td{
+	padding: 1px;
+}
+.evento{
+	background-color: #D3D1C0 ;
+	color: #444A4F;
+	padding: 1px;
+	margin: 1px;
+}
+.curso{
+
+}
+.inscripciones{
+	background:#5D9C7E;
+}
+.llamado{
+	background:#007C85;
+}
+.inician{
+
+}
+.cierre{
+	background-color:pink;
+
+}
+.receso{
+}
+.concluyen{
+
+}
+.asueto{
+	color:red;
+	background:transparent;
+	font-style: italic;
+}
+
+
+/* 2d */
+.universitario{
+
+}
+.finales{
+	/*color: Indigo;*/
+	font-weight: bold;
+
+}
+.cursadas{
+	/*color: DarkSlateBlue;*/
+	font-weight: bold;
+
+	
+}
+.actas{
+	/*color: black;*/
+	font-weight: bold;
+
+}
+.invernal{
+
+}
+.actividades{
+
+}

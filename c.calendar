@@ -4,164 +4,164 @@ input-language es
 
 # CALENDARIO ACADEMICO 2016
 
-# Curso Pre Universitario
-10/02	<div class="curso universitario">Curso Pre Universitario</div>
-11/02	<div class="curso universitario">Curso Pre Universitario</div>
-12/02	<div class="curso universitario">Curso Pre Universitario</div>
-15/02	<div class="curso universitario">Curso Pre Universitario</div>
-16/02	<div class="curso universitario">Curso Pre Universitario</div>
-17/02	<div class="curso universitario">Curso Pre Universitario</div>
-18/02	<div class="curso universitario">Curso Pre Universitario</div>
-19/02	<div class="curso universitario">Curso Pre Universitario</div>
-22/02	<div class="curso universitario">Curso Pre Universitario</div>
-23/02	<div class="curso universitario">Curso Pre Universitario</div>
-24/02	<div class="curso universitario">Curso Pre Universitario</div>
-25/02	<div class="curso universitario">Curso Pre Universitario</div>
-26/02	<div class="curso universitario">Curso Pre Universitario</div>
-29/02	<div class="curso universitario">Curso Pre Universitario</div>
-01/03	<div class="curso universitario">Curso Pre Universitario</div>
-02/03	<div class="curso universitario">Curso Pre Universitario</div>
-03/03	<div class="curso universitario">Curso Pre Universitario</div>
-04/03	<div class="curso universitario">Curso Pre Universitario</div>
+# Nivelaci&oacute;n y orientaci&oacute;n ar&iacute;stica-profesional para ingresantes
+10/02	<div class="evento nivelaci ingresantes">Nivelaci&oacute;n y orientaci&oacute;n ar&iacute;stica-profesional para ingresantes</div>
+11/02	<div class="evento nivelaci ingresantes">Nivelaci&oacute;n y orientaci&oacute;n ar&iacute;stica-profesional para ingresantes</div>
+12/02	<div class="evento nivelaci ingresantes">Nivelaci&oacute;n y orientaci&oacute;n ar&iacute;stica-profesional para ingresantes</div>
+15/02	<div class="evento nivelaci ingresantes">Nivelaci&oacute;n y orientaci&oacute;n ar&iacute;stica-profesional para ingresantes</div>
+16/02	<div class="evento nivelaci ingresantes">Nivelaci&oacute;n y orientaci&oacute;n ar&iacute;stica-profesional para ingresantes</div>
+17/02	<div class="evento nivelaci ingresantes">Nivelaci&oacute;n y orientaci&oacute;n ar&iacute;stica-profesional para ingresantes</div>
+18/02	<div class="evento nivelaci ingresantes">Nivelaci&oacute;n y orientaci&oacute;n ar&iacute;stica-profesional para ingresantes</div>
+19/02	<div class="evento nivelaci ingresantes">Nivelaci&oacute;n y orientaci&oacute;n ar&iacute;stica-profesional para ingresantes</div>
+22/02	<div class="evento nivelaci ingresantes">Nivelaci&oacute;n y orientaci&oacute;n ar&iacute;stica-profesional para ingresantes</div>
+23/02	<div class="evento nivelaci ingresantes">Nivelaci&oacute;n y orientaci&oacute;n ar&iacute;stica-profesional para ingresantes</div>
+24/02	<div class="evento nivelaci ingresantes">Nivelaci&oacute;n y orientaci&oacute;n ar&iacute;stica-profesional para ingresantes</div>
+25/02	<div class="evento nivelaci ingresantes">Nivelaci&oacute;n y orientaci&oacute;n ar&iacute;stica-profesional para ingresantes</div>
+26/02	<div class="evento nivelaci ingresantes">Nivelaci&oacute;n y orientaci&oacute;n ar&iacute;stica-profesional para ingresantes</div>
+29/02	<div class="evento nivelaci ingresantes">Nivelaci&oacute;n y orientaci&oacute;n ar&iacute;stica-profesional para ingresantes</div>
+01/03	<div class="evento nivelaci ingresantes">Nivelaci&oacute;n y orientaci&oacute;n ar&iacute;stica-profesional para ingresantes</div>
+02/03	<div class="evento nivelaci ingresantes">Nivelaci&oacute;n y orientaci&oacute;n ar&iacute;stica-profesional para ingresantes</div>
+03/03	<div class="evento nivelaci ingresantes">Nivelaci&oacute;n y orientaci&oacute;n ar&iacute;stica-profesional para ingresantes</div>
+04/03	<div class="evento nivelaci ingresantes">Nivelaci&oacute;n y orientaci&oacute;n ar&iacute;stica-profesional para ingresantes</div>
 ####################
 
 
 # Inscripciones a examenes finales (febrero y marzo)
-11/02	<div class="inscripciones finales">Inscripciones a examenes finales (febrero y marzo)</div>
-12/02	<div class="inscripciones finales">Inscripciones a examenes finales (febrero y marzo)</div>
-15/02	<div class="inscripciones finales">Inscripciones a examenes finales (febrero y marzo)</div>
-16/02	<div class="inscripciones finales">Inscripciones a examenes finales (febrero y marzo)</div>
-17/02	<div class="inscripciones finales">Inscripciones a examenes finales (febrero y marzo)</div>
+11/02	<div class="evento inscripciones finales">Inscripciones a examenes finales (febrero y marzo)</div>
+12/02	<div class="evento inscripciones finales">Inscripciones a examenes finales (febrero y marzo)</div>
+15/02	<div class="evento inscripciones finales">Inscripciones a examenes finales (febrero y marzo)</div>
+16/02	<div class="evento inscripciones finales">Inscripciones a examenes finales (febrero y marzo)</div>
+17/02	<div class="evento inscripciones finales">Inscripciones a examenes finales (febrero y marzo)</div>
 ####################
 
 # Llamado a examenes finales (febrero)
-22/02	<div class="llamado finales">Llamado a examenes finales (febrero)</div>
-23/02	<div class="llamado finales">Llamado a examenes finales (febrero)</div>
-24/02	<div class="llamado finales">Llamado a examenes finales (febrero)</div>
-25/02	<div class="llamado finales">Llamado a examenes finales (febrero)</div>
-26/02	<div class="llamado finales">Llamado a examenes finales (febrero)</div>
+22/02	<div class="evento llamado finales">Llamado a examenes finales (febrero)</div>
+23/02	<div class="evento llamado finales">Llamado a examenes finales (febrero)</div>
+24/02	<div class="evento llamado finales">Llamado a examenes finales (febrero)</div>
+25/02	<div class="evento llamado finales">Llamado a examenes finales (febrero)</div>
+26/02	<div class="evento llamado finales">Llamado a examenes finales (febrero)</div>
 ####################
 
 # Inscripciones a cursadas (1er cuatrimestre y anuales)
-26/02	<div class="inscripciones cursadas">Inscripciones a cursadas (1er cuatrimestre y anuales)</div>
-29/02	<div class="inscripciones cursadas">Inscripciones a cursadas (1er cuatrimestre y anuales)</div>
-01/03	<div class="inscripciones cursadas">Inscripciones a cursadas (1er cuatrimestre y anuales)</div>
-02/03	<div class="inscripciones cursadas">Inscripciones a cursadas (1er cuatrimestre y anuales)</div>
-03/03	<div class="inscripciones cursadas">Inscripciones a cursadas (1er cuatrimestre y anuales)</div>
+26/02	<div class="evento inscripciones cursadas">Inscripciones a cursadas (1er cuatrimestre y anuales)</div>
+29/02	<div class="evento inscripciones cursadas">Inscripciones a cursadas (1er cuatrimestre y anuales)</div>
+01/03	<div class="evento inscripciones cursadas">Inscripciones a cursadas (1er cuatrimestre y anuales)</div>
+02/03	<div class="evento inscripciones cursadas">Inscripciones a cursadas (1er cuatrimestre y anuales)</div>
+03/03	<div class="evento inscripciones cursadas">Inscripciones a cursadas (1er cuatrimestre y anuales)</div>
 ####################
 
 # Llamado a examenes finales (marzo)
-01/03	<div class="llamado finales">Llamado a examenes finales (marzo)</div>
-02/03	<div class="llamado finales">Llamado a examenes finales (marzo)</div>
-03/03	<div class="llamado finales">Llamado a examenes finales (marzo)</div>
-04/03	<div class="llamado finales">Llamado a examenes finales (marzo)</div>
+01/03	<div class="evento llamado finales">Llamado a examenes finales (marzo)</div>
+02/03	<div class="evento llamado finales">Llamado a examenes finales (marzo)</div>
+03/03	<div class="evento llamado finales">Llamado a examenes finales (marzo)</div>
+04/03	<div class="evento llamado finales">Llamado a examenes finales (marzo)</div>
 ####################
 
-07/03	<div class="inician cursadas">Inician cursadas (1er cuatrimestre)</div>
+07/03	<div class="evento inician cursadas">Inician cursadas (1er cuatrimestre)</div>
 
 # Cierre de notas / carga de actas # (1er cuatrimestre)
-27/06	<div class="cierre actas">Cierre de notas / carga de actas # (1er cuatrimestre)</div>
-28/06	<div class="cierre actas">Cierre de notas / carga de actas # (1er cuatrimestre)</div>
-29/06	<div class="cierre actas">Cierre de notas / carga de actas # (1er cuatrimestre)</div>
-30/06	<div class="cierre actas">Cierre de notas / carga de actas # (1er cuatrimestre)</div>
-01/07	<div class="cierre actas">Cierre de notas / carga de actas # (1er cuatrimestre)</div>
+27/06	<div class="evento cierre actas">Cierre de notas / carga de actas # (1er cuatrimestre)</div>
+28/06	<div class="evento cierre actas">Cierre de notas / carga de actas # (1er cuatrimestre)</div>
+29/06	<div class="evento cierre actas">Cierre de notas / carga de actas # (1er cuatrimestre)</div>
+30/06	<div class="evento cierre actas">Cierre de notas / carga de actas # (1er cuatrimestre)</div>
+01/07	<div class="evento cierre actas">Cierre de notas / carga de actas # (1er cuatrimestre)</div>
 ####################
 
 # Inscripciones a examenes finales (julio - &uacute;nico llamado)
-05/07	<div class="inscripciones finales">Inscripciones a examenes finales (julio - &uacute;nico llamado)</div>
-06/07	<div class="inscripciones finales">Inscripciones a examenes finales (julio - &uacute;nico llamado)</div>
-07/07	<div class="inscripciones finales">Inscripciones a examenes finales (julio - &uacute;nico llamado)</div>
-08/07	<div class="inscripciones finales">Inscripciones a examenes finales (julio - &uacute;nico llamado)</div>
+05/07	<div class="evento inscripciones finales">Inscripciones a examenes finales (julio - &uacute;nico llamado)</div>
+06/07	<div class="evento inscripciones finales">Inscripciones a examenes finales (julio - &uacute;nico llamado)</div>
+07/07	<div class="evento inscripciones finales">Inscripciones a examenes finales (julio - &uacute;nico llamado)</div>
+08/07	<div class="evento inscripciones finales">Inscripciones a examenes finales (julio - &uacute;nico llamado)</div>
 ####################
 
 # Inscripciones a cursadas (2do cuatrimestre)
-05/07	<div class="inscripciones cursadas">Inscripciones a cursadas (2do cuatrimestre)</div>
-06/07	<div class="inscripciones cursadas">Inscripciones a cursadas (2do cuatrimestre)</div>
-07/07	<div class="inscripciones cursadas">Inscripciones a cursadas (2do cuatrimestre)</div>
-08/07	<div class="inscripciones cursadas">Inscripciones a cursadas (2do cuatrimestre)</div>
-11/07	<div class="inscripciones cursadas">Inscripciones a cursadas (2do cuatrimestre)</div>
-12/07	<div class="inscripciones cursadas">Inscripciones a cursadas (2do cuatrimestre)</div>
-13/07	<div class="inscripciones cursadas">Inscripciones a cursadas (2do cuatrimestre)</div>
-14/07	<div class="inscripciones cursadas">Inscripciones a cursadas (2do cuatrimestre)</div>
-15/07	<div class="inscripciones cursadas">Inscripciones a cursadas (2do cuatrimestre)</div>
+05/07	<div class="evento inscripciones cursadas">Inscripciones a cursadas (2do cuatrimestre)</div>
+06/07	<div class="evento inscripciones cursadas">Inscripciones a cursadas (2do cuatrimestre)</div>
+07/07	<div class="evento inscripciones cursadas">Inscripciones a cursadas (2do cuatrimestre)</div>
+08/07	<div class="evento inscripciones cursadas">Inscripciones a cursadas (2do cuatrimestre)</div>
+11/07	<div class="evento inscripciones cursadas">Inscripciones a cursadas (2do cuatrimestre)</div>
+12/07	<div class="evento inscripciones cursadas">Inscripciones a cursadas (2do cuatrimestre)</div>
+13/07	<div class="evento inscripciones cursadas">Inscripciones a cursadas (2do cuatrimestre)</div>
+14/07	<div class="evento inscripciones cursadas">Inscripciones a cursadas (2do cuatrimestre)</div>
+15/07	<div class="evento inscripciones cursadas">Inscripciones a cursadas (2do cuatrimestre)</div>
 ####################
 
 # Llamado a examenes finales (julio - &uacute;nico llamado)
-11/07	<div class="llamado finales">Llamado a examenes finales (julio - &uacute;nico llamado)</div>
-12/07	<div class="llamado finales">Llamado a examenes finales (julio - &uacute;nico llamado)</div>
-13/07	<div class="llamado finales">Llamado a examenes finales (julio - &uacute;nico llamado)</div>
-14/07	<div class="llamado finales">Llamado a examenes finales (julio - &uacute;nico llamado)</div>
-15/07	<div class="llamado finales">Llamado a examenes finales (julio - &uacute;nico llamado)</div>
+11/07	<div class="evento llamado finales">Llamado a examenes finales (julio - &uacute;nico llamado)</div>
+12/07	<div class="evento llamado finales">Llamado a examenes finales (julio - &uacute;nico llamado)</div>
+13/07	<div class="evento llamado finales">Llamado a examenes finales (julio - &uacute;nico llamado)</div>
+14/07	<div class="evento llamado finales">Llamado a examenes finales (julio - &uacute;nico llamado)</div>
+15/07	<div class="evento llamado finales">Llamado a examenes finales (julio - &uacute;nico llamado)</div>
 ####################
 
 # Receso Invernal
-18/07	<div class="receso invernal">Receso Invernal</div>
-19/07	<div class="receso invernal">Receso Invernal</div>
-20/07	<div class="receso invernal">Receso Invernal</div>
-21/07	<div class="receso invernal">Receso Invernal</div>
-22/07	<div class="receso invernal">Receso Invernal</div>
-25/07	<div class="receso invernal">Receso Invernal</div>
-26/07	<div class="receso invernal">Receso Invernal</div>
-27/07	<div class="receso invernal">Receso Invernal</div>
-28/07	<div class="receso invernal">Receso Invernal</div>
-29/07	<div class="receso invernal">Receso Invernal</div>
+18/07	<div class="evento receso invernal">Receso Invernal</div>
+19/07	<div class="evento receso invernal">Receso Invernal</div>
+20/07	<div class="evento receso invernal">Receso Invernal</div>
+21/07	<div class="evento receso invernal">Receso Invernal</div>
+22/07	<div class="evento receso invernal">Receso Invernal</div>
+25/07	<div class="evento receso invernal">Receso Invernal</div>
+26/07	<div class="evento receso invernal">Receso Invernal</div>
+27/07	<div class="evento receso invernal">Receso Invernal</div>
+28/07	<div class="evento receso invernal">Receso Invernal</div>
+29/07	<div class="evento receso invernal">Receso Invernal</div>
 ####################
 
-01/08	<div class="inician cursadas">Inician cursadas (2do cuatrimestre)</div>
-18/11	<div class="concluyen cursadas">Concluyen cursadas # (cuatrimestrales y anuales)</div>
+01/08	<div class="evento inician cursadas">Inician cursadas (2do cuatrimestre)</div>
+18/11	<div class="evento concluyen cursadas">Concluyen cursadas # (cuatrimestrales y anuales)</div>
 
 # Cierre de notas / carga de actas # (2do cuatrimestre y anuales)
-21/11	<div class="cierre actas">Cierre de notas / carga de actas # (2do cuatrimestre y anuales)</div>
-22/11	<div class="cierre actas">Cierre de notas / carga de actas # (2do cuatrimestre y anuales)</div>
-23/11	<div class="cierre actas">Cierre de notas / carga de actas # (2do cuatrimestre y anuales)</div>
-24/11	<div class="cierre actas">Cierre de notas / carga de actas # (2do cuatrimestre y anuales)</div>
-25/11	<div class="cierre actas">Cierre de notas / carga de actas # (2do cuatrimestre y anuales)</div>
+21/11	<div class="evento cierre actas">Cierre de notas / carga de actas # (2do cuatrimestre y anuales)</div>
+22/11	<div class="evento cierre actas">Cierre de notas / carga de actas # (2do cuatrimestre y anuales)</div>
+23/11	<div class="evento cierre actas">Cierre de notas / carga de actas # (2do cuatrimestre y anuales)</div>
+24/11	<div class="evento cierre actas">Cierre de notas / carga de actas # (2do cuatrimestre y anuales)</div>
+25/11	<div class="evento cierre actas">Cierre de notas / carga de actas # (2do cuatrimestre y anuales)</div>
 ####################
 
 # Inscripciones a examenes finales (diciembre)
-28/11	<div class="inscripciones finales">Inscripciones a examenes finales (diciembre)</div>
-29/11	<div class="inscripciones finales">Inscripciones a examenes finales (diciembre)</div>
-30/11	<div class="inscripciones finales">Inscripciones a examenes finales (diciembre)</div>
-01/12	<div class="inscripciones finales">Inscripciones a examenes finales (diciembre)</div>
-02/12	<div class="inscripciones finales">Inscripciones a examenes finales (diciembre)</div>
+28/11	<div class="evento inscripciones finales">Inscripciones a examenes finales (diciembre)</div>
+29/11	<div class="evento inscripciones finales">Inscripciones a examenes finales (diciembre)</div>
+30/11	<div class="evento inscripciones finales">Inscripciones a examenes finales (diciembre)</div>
+01/12	<div class="evento inscripciones finales">Inscripciones a examenes finales (diciembre)</div>
+02/12	<div class="evento inscripciones finales">Inscripciones a examenes finales (diciembre)</div>
 ####################
 
 # Llamado a examenes finales (diciembre - 1er turno)
-05/12	<div class="llamado finales">Llamado a examenes finales (diciembre - 1er turno)</div>
-06/12	<div class="llamado finales">Llamado a examenes finales (diciembre - 1er turno)</div>
-07/12	<div class="llamado finales">Llamado a examenes finales (diciembre - 1er turno)</div>
-08/12	<div class="llamado finales">Llamado a examenes finales (diciembre - 1er turno)</div>
+05/12	<div class="evento llamado finales">Llamado a examenes finales (diciembre - 1er turno)</div>
+06/12	<div class="evento llamado finales">Llamado a examenes finales (diciembre - 1er turno)</div>
+07/12	<div class="evento llamado finales">Llamado a examenes finales (diciembre - 1er turno)</div>
+08/12	<div class="evento llamado finales">Llamado a examenes finales (diciembre - 1er turno)</div>
 ####################
 
 # Llamado a examenes finales (diciembre - 2do turno)
-12/12	<div class="llamado finales">Llamado a examenes finales (diciembre - 2do turno)</div>
-13/12	<div class="llamado finales">Llamado a examenes finales (diciembre - 2do turno)</div>
-14/12	<div class="llamado finales">Llamado a examenes finales (diciembre - 2do turno)</div>
-15/12	<div class="llamado finales">Llamado a examenes finales (diciembre - 2do turno)</div>
-16/12	<div class="llamado finales">Llamado a examenes finales (diciembre - 2do turno)</div>
+12/12	<div class="evento llamado finales">Llamado a examenes finales (diciembre - 2do turno)</div>
+13/12	<div class="evento llamado finales">Llamado a examenes finales (diciembre - 2do turno)</div>
+14/12	<div class="evento llamado finales">Llamado a examenes finales (diciembre - 2do turno)</div>
+15/12	<div class="evento llamado finales">Llamado a examenes finales (diciembre - 2do turno)</div>
+16/12	<div class="evento llamado finales">Llamado a examenes finales (diciembre - 2do turno)</div>
 ####################
 
 
-19/12	<div class="concluyen actividades">Concluyen las Actividades</div>
+19/12	<div class="evento concluyen actividades">Concluyen las Actividades</div>
 
 # Festividades del Primer Cuatrimestre
-24/03	<div class="asueto memoria">Asueto 40 A&ntilde;os D&iacute;a Nacional de la Memoria...</div>
-25/03	<div class="asueto santo">Asueto Viernes Santo</div>
-24/03	<div class="asueto santo">Asueto Jueves Santo</div>
-27/03	<div class="asueto pascua">Asueto Domingo de Pascua</div>
-02/04	<div class="asueto malvinas">Asueto D&iacute;a del Veterano y de los Ca&iacute;dos en la Guerra de Malvinas</div>
-24/04	<div class="asueto pueblos">Asueto D&iacute;a de Acci&oacute;n por la Tolerancia y Respeto de los Pueblos</div>
-01/05	<div class="asueto trabajador">Asueto D&iacute;a del Trabajador</div>
-25/05	<div class="asueto patrio">Asueto Primer Gobierno Patrio</div>
-20/06	<div class="asueto belgrano">Asueto Paso a la Inmortalidad del General Manuel Belgrano</div>
+24/03	<div class="evento asueto memoria">Asueto 40 A&ntilde;os D&iacute;a Nacional de la Memoria...</div>
+25/03	<div class="evento asueto santo">Asueto Viernes Santo</div>
+24/03	<div class="evento asueto santo">Asueto Jueves Santo</div>
+27/03	<div class="evento asueto pascua">Asueto Domingo de Pascua</div>
+02/04	<div class="evento asueto malvinas">Asueto D&iacute;a del Veterano y de los Ca&iacute;dos en la Guerra de Malvinas</div>
+24/04	<div class="evento asueto pueblos">Asueto D&iacute;a de Acci&oacute;n por la Tolerancia y Respeto de los Pueblos</div>
+01/05	<div class="evento asueto trabajador">Asueto D&iacute;a del Trabajador</div>
+25/05	<div class="evento asueto patrio">Asueto Primer Gobierno Patrio</div>
+20/06	<div class="evento asueto belgrano">Asueto Paso a la Inmortalidad del General Manuel Belgrano</div>
 
 # Festividades del Segundo Cuatrimestre
-09/07	<div class="asueto 2016">Asueto Bicentenario de la Independencia Argentina 1816 - 2016.</div>
-15/08	<div class="asueto n">Asueto Paso a la Inmortalidad del General Jos&eacute; de San Mart&iacute;n</div>
-21/09	<div class="asueto artes">Asueto D&iacute;a de las Artes</div>
-03/10	<div class="asueto mico">Asueto A&ntilde;o Nuevo Isl&aacute;mico*</div>
-10/10	<div class="asueto cultural">Asueto D&iacute;a del Respeto a la Diversidad Cultural</div>
-12/10	<div class="asueto n">Asueto Yom Kipur, Gran D&iacute;a del Perd&oacute;n*</div>
-22/10	<div class="asueto artes">Asueto D&iacute;a de la Universidad Nacional de las Artes</div>
-26/11	<div class="asueto docente">Asueto D&iacute;a del Trabajador No Docente</div>
-28/11	<div class="asueto nacional">Asueto D&iacute;a de la Soberan&iacute;a Nacional</div>
+09/07	<div class="evento asueto 2016">Asueto Bicentenario de la Independencia Argentina 1816 - 2016.</div>
+15/08	<div class="evento asueto n">Asueto Paso a la Inmortalidad del General Jos&eacute; de San Mart&iacute;n</div>
+21/09	<div class="evento asueto artes">Asueto D&iacute;a de las Artes</div>
+03/10	<div class="evento asueto mico">Asueto A&ntilde;o Nuevo Isl&aacute;mico*</div>
+10/10	<div class="evento asueto cultural">Asueto D&iacute;a del Respeto a la Diversidad Cultural</div>
+12/10	<div class="evento asueto n">Asueto Yom Kipur, Gran D&iacute;a del Perd&oacute;n*</div>
+22/10	<div class="evento asueto artes">Asueto D&iacute;a de la Universidad Nacional de las Artes</div>
+26/11	<div class="evento asueto docente">Asueto D&iacute;a del Trabajador No Docente</div>
+28/11	<div class="evento asueto nacional">Asueto D&iacute;a de la Soberan&iacute;a Nacional</div>
