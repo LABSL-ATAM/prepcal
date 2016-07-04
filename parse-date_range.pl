@@ -17,9 +17,10 @@ my $anio = 2016;
 my @lines = grep {!/^#/} @file;		# weed out comments
 my @eventos = grep {/\S/} @lines;	# weed out blank lines
 
-
+my $contador = 0;
 # main
 foreach (@eventos) {
+	$contador++;
 
 	if (index($_, '*') == 0) { # estas lineas (*) pasan derecho
 		my $new = substr $_, 1;
@@ -57,7 +58,7 @@ foreach (@eventos) {
 sub salida{
 	my (%e) = @_;
 	my $d1 = DateTime->new($e{start});
-	my $t = marcar($e{texto});
+	my $t = indentificar($e{texto});
 
 	if($e{end}){
 		say "# ".$e{texto};
@@ -87,54 +88,37 @@ sub fecha{
 		my %fecha = (day  => $A[0], month => $m, year => $anio);
 		return %fecha;
 	}else{ # fecha sin mes
-		return $A[0];
-		say "Esto no debería ocurrir.";
+		die "Evento: ",$contador," ¡No puede haber una fecha sin MES!";
 	}
 
 }
 
 sub mes{
 	my $month = $_[0];
-
 	my %mon2num = qw(
 		ene 1  feb 2  mar 3  abr 4  may 5  jun 6
 		jul 7  ago 8  sep 9  oct 10 nov 11 dic 12
 	);
 	return $mon2num{ lc substr($month, 0, 3) };
-
 }
 
 
-# my $input = 'Finales llamado marzo';
+my @gw;
+# print Dumper (@gw);
+sub indentificar{
+	# my $raw_input = $_[0];
+	my @input = split /\(/, $_[0],2; # separo al "(" (parantesis)
 
-sub marcar{
-	my $input = $_[0];
+	my @words = split /\W/,$input[0]; # separo al " " (espacio)
 
+	my $first = $words[0];
+	my $last = $words[@words - 1];
+	push(@gw, $last) unless grep{$_ eq $last} @gw;
 
-	my @words = split /\s/, $input;
-	my $verbo = $words[0];
-
-	# if($words[2]){
-	# 	$sustativo = $words[2];
-	# }
-
-
-	my $pre = "<div>";
-	# my $classes = estandar($verbo);
-	my $classes = $verbo;
-
-	$pre = "<div class=\"".$classes."\">";
+	my $classes = lc $first.' '.$last;
+	my $pre = "<div class=\"".$classes."\">";
 	my $post = "</div>";
 
-	return $pre.$input.$post;
+	return $pre.$_[0].$post;
 }
 
-sub estandar{
-	my $v = $_[0];
-	my %verb2standar = qw(
-		ins inscripciones  lla llamado  asu asueto
-		cie cierre  mat cursadas  exa examenes  com comienzo
-		con concluyen
-	);
-	return $verb2standar{ lc substr($v, 0, 3) };
-}
