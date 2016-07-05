@@ -1,8 +1,6 @@
 opt -E
 opt -a es
 opt -o atam2017tentativo.html
-# 25.12.04*                   Christmas     # European
-
 
 
 input-language en
@@ -44,4 +42,4 @@ Fri on all 13						Avoid black cats!   # 'Friday the 13th'#
 
 
 
-#{<ordinal>} <day_spec> <prep> <date_spec>{*} {<text>}
+# {<ordinal>} <day_spec> <prep> <date_spec>{*} {<text>}
