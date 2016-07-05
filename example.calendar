@@ -1,4 +1,57 @@
-# -----------------------------------------------------------------------------
+
+last Monday in May*         Memorial Day Holiday
+
+all Fridays in Oct          Status Meeting, 11 AM
+first workday in all        %-B progress report due
+all Fri in all              \fBTime card due,\fP 3 PM
+all Monday in all           Fiscal week %0W
+-2nd workday in all         Schedule for %+B due %+2D
+2nd full_moon in all        Blue Moon
+Fri on_or_before all 15     Pay Day
+even Fridays in year        Pay Day
+183rd day of year           Mid-year (%l days left)
+
+Tue after first Mon in Nov  Election Day (USA)
+
+4th Thu in Nov*             Thanksgiving
+Fri after 4th Thu in Nov*   Day after Thanksgiving
+workday nearest 12/25*      Holiday
+
+12/25/04*                   Christmas     # American
+25.12.04*                   Christmas     # European
+25. 12.*                    Christmas     # European
+
+Dec 25*                     Christmas     # American
+25 Dec*                     Christmas     # European
+25. Dec*                    Christmas     # European
+
+Fri on all 13               Avoid black cats!   # 'Friday the 13th'#
+
+# %a   abbreviated weekday
+# %A   full weekday
+# %b   abbreviated month name
+# %B   full month name
+# %d   day of month (1-31)
+# %j   day of year (1-366)
+# %l   days left in year (0-365)
+# %m   month (1-12)
+# %U   week number (0-53)
+# %W   week number (0-53)
+# %u   week number (1-54)
+# %w   week number (1-54)
+# %y   year w/o century (00-99)
+# %Y   year w/century
+# %%   `%' character
+#
+# %o   print number as ordinal
+# %0   print number with leading zeroes
+# %+   use following month or year
+# %-   use previous month or year
+# %{+N}[DWMY]    adjust date by +N days/weeks/months/years
+# %{-N}[DWMY]    adjust date by -N days/weeks/months/years
+
+
+-----------------------------------------------------------------------------
 #
 #    This file contains examples of various options, directives, and event
 #    definitions for the 'pcal' calendar-generation program:

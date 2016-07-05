@@ -1,10 +1,44 @@
-# 10 de febrero al 4 de marzo: Nivelación y orientación arística-profesional para ingresantes
+opt -E
+opt -a es
+opt -o atam2017tentativo.html
+# 25.12.04*                   Christmas     # European
+
+
+
 input-language en
 
-first workday in feb    INICIAN ACTIVIDADES
-# workdays on_or_before all 14    CPU
+# eventos anuales
+first Mon in feb				INICIAN ACTIVIDADES
+Wed after first Mon in feb  3 dia de actividades...
 
-last_quarter feb CPU
+-3nd monday in feb			INSCRIPCIONES a examenes (%b)
+-2nd monday in feb			INSCRIPCIONES a cursadas (%b)
+-1nd monday in feb			LLAMADO a examenes (%b)
+
+-3nd monday in mar			INSCRIPCIONES a examenes (%b)
+-1nd monday in mar			LLAMADO a examenes (%b)
+
+1st monday in Jul			INSCRIPCIONES a examenes (%b)
+3nd monday in Jul			LLAMADO a examenes (%b)
+
+-2nd monday in Jul			Inicia receso Invernal # '-2nd' cuenta para atras
+1st monday in Aug				REANUDAN ACTIVIDADES Termina receso Invernal
+
+# eventos mensuales
+first Mon in all				Reunion: %B
+delete first Mon in Jan Reunion: %B # borrar en enero
+Mon Nearest all 15			mitad de mes
+-3nd workday in all			Programar Reunion: %+B
+delete -3nd workday in Jan			Programar Reunion: %+B  # borrar en enero
+
+
+# notas
+Fri on all 13						Avoid black cats!   # 'Friday the 13th'#
+183rd day of year				Mitad de %Y (quedan %l dias)
+
+# all Friday in all  Poker game
+# delete first Friday in all  Poker game
+
 
 
 
