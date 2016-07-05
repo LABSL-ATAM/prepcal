@@ -29,9 +29,9 @@ Wed after first Mon in feb  3 dia de actividades...
 # eventos mensuales
 first Mon in all				-Reunion: %B
 delete first Mon in Jan -Reunion: %B # borrar en enero
-Mon Nearest all 15			-mitad de mes
+# Mon Nearest all 15			-mitad de mes
 -3nd workday in all			-Programar Reunion: %+B
-delete -3nd workday in Jan			-Programar Reunion: %+B  # borrar en enero
+delete -3nd workday in Dec			-Programar Reunion: %+B  # borrar en enero
 
 
 # notas
