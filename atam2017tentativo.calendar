@@ -15,6 +15,8 @@ Wed after first Mon in feb  3 dia de actividades...
 -2nd monday in feb			INSCRIPCIONES a cursadas (%b)
 -1nd monday in feb			LLAMADO a examenes (%b)
 
+1st monday in mar				INICIAN CURSADAS
+
 -3nd monday in mar			INSCRIPCIONES a examenes (%b)
 -1nd monday in mar			LLAMADO a examenes (%b)
 
@@ -25,11 +27,11 @@ Wed after first Mon in feb  3 dia de actividades...
 1st monday in Aug				REANUDAN ACTIVIDADES Termina receso Invernal
 
 # eventos mensuales
-first Mon in all				Reunion: %B
-delete first Mon in Jan Reunion: %B # borrar en enero
-Mon Nearest all 15			mitad de mes
--3nd workday in all			Programar Reunion: %+B
-delete -3nd workday in Jan			Programar Reunion: %+B  # borrar en enero
+first Mon in all				-Reunion: %B
+delete first Mon in Jan -Reunion: %B # borrar en enero
+Mon Nearest all 15			-mitad de mes
+-3nd workday in all			-Programar Reunion: %+B
+delete -3nd workday in Jan			-Programar Reunion: %+B  # borrar en enero
 
 
 # notas
